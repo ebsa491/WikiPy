@@ -26,7 +26,7 @@ python3 WikiPy.py WORD_FOR_SEARCH
 
 ```
 
-**Note:** Wikipedia API URL : https://en.wikipedia.org/w/api.php?action=query&list=search&format=json&srsearch=WORD
+**Note:** Wikipedia API URL : [```https://en.wikipedia.org/w/api.php?action=query&list=search&format=json&srsearch=WORD```](https://en.wikipedia.org/w/api.php?action=query&list=search&format=json&srsearch=WORD)
 
 ### Screenshot
 

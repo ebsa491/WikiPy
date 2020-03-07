@@ -2,6 +2,7 @@
 Wikipedia search in python (GUI) .
 
 [![Build Status](https://img.shields.io/badge/build-passing-success)](https://samebison.ir)
+[![Python: 3.5](https://img.shields.io/badge/python-3.5-blue)](https://www.python.org/downloads/release/python-350/)
 [![License: GPL v3](https://img.shields.io/badge/license-GPL--3.0-informational)](https://www.gnu.org/licenses/gpl-3.0)
 
 ### Requirements

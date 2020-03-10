@@ -23,7 +23,7 @@ Shell:
 
 ```shell
 
-python3 WikiPy.py WORD_FOR_SEARCH
+$ python3 WikiPy.py WORD_FOR_SEARCH
 
 ```
 

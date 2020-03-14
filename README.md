@@ -16,7 +16,7 @@ Wikipedia search in Python (GUI) .
 
 ### Installation
 
-It's the portable version so there's no need to install.
+This is the source of program for use the program check [Usage](#usage).
 
 ### Usage
 

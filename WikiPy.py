@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 # General Public License (GPL) v3.0 .
 # The project has been developed by Saman Ebrahimnezhad .
 # Created at Iran (IR) .
